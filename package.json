@@ -1,0 +1,15 @@
+{
+  "name": "bot-discord-astral",
+  "version": "0.0.1",
+  "description": "firt bot",
+  "main": "index.js",
+  "dependencies": {
+    "node.js": "^0.0.1-security"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Castelrick",
+  "license": "ISC"
+}
